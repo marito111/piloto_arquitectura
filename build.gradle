@@ -18,6 +18,11 @@ war {
     version =  ''
 }
 
+javadoc {
+	source = sourceSets.main.allJava
+	classpath = configurations.compile
+}
+
 //jar {
 //    baseName = 'prototipo7_MVC_REST_OAUTH2_SERVER'
 //  version =  '0.1.0'
