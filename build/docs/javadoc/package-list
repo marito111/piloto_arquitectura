@@ -1,0 +1,11 @@
+es.ibermatica.arquitectura.config
+es.ibermatica.arquitectura.controller
+es.ibermatica.arquitectura.dao
+es.ibermatica.arquitectura.excepcion
+es.ibermatica.arquitectura.model
+es.ibermatica.arquitectura.security
+es.ibermatica.arquitectura.service
+es.ibermatica.arquitectura.service.impl
+es.ibermatica.arquitectura.util
+es.ibermatica.arquitectura.util.dto
+es.ibermatica.arquitectura.util.vo
