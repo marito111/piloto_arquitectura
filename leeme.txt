@@ -1,0 +1,8 @@
+>gradle clean build
+>gradle bootRun
+>gradle bootRun --debug-jvm
+
+http://localhost:8080/OAUTH2_SERVER/h2-console/     jdbc:h2:mem:testdb   pass:sa
+
+http://localhost:8080/OAUTH2_SERVER/
+http://localhost:8070/OAUTH2_CLIENT/   mario/mario
